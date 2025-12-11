@@ -43,14 +43,17 @@ con gestión de pacientes, médicos, turnos, historial clínico y reportes autom
 - **Herramientas:** Git
 
 - 📦 Instalación
-# Clonar repositorio
-git clone https://github.com/tuusuario/nombre-proyecto.git
+  Clonar repositorio
+  git clone https://github.com/tuusuario/nombre-proyecto.git
 
-# Instalar dependencias
-pip install -r requirements.txt
+  Instalar dependencias
+  pip install -r requirements.txt
 
-# Configurar variables de entorno
-cp .env.example .env
+  Configurar variables de entorno
+  cp .env.example .env
 
-# Ejecutar aplicación
-uvicorn main:app --reload
+  Ejecutar aplicación
+  uvicorn main:app --reload
+
+  Ejecutar front
+  npm start
