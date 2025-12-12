@@ -53,7 +53,8 @@ con gestión de pacientes, médicos, turnos, historial clínico y reportes autom
   npm start
 
 
-**Sistema de Gestión de CLub Deportivo**
+## **→ Sistema de Gestión de CLub Deportivo**
+
 Sistema desarrollado en Python para la administración integral de un club deportivo. 
 Permite gestionar socios, calcular recaudaciones mensuales y generar reportes estadísticos 
 según tres categorías de membresía con reglas de cobro diferenciadas.
