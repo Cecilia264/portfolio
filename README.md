@@ -13,7 +13,7 @@ En el año 2025 finalice la ultima materia pendiente para ser Analista de Sistem
 
 ## 📂 Proyectos Destacados
 
-**Sistema de Gestión de Turnos Médicos**  
+#**Sistema de Gestión de Turnos Médicos**  
 Aplicación web completa para digitalizar la administración de consultorios y clínicas, 
 con gestión de pacientes, médicos, turnos, historial clínico y reportes automatizados.
 
