@@ -35,7 +35,7 @@ con gestión de pacientes, médicos, turnos, historial clínico y reportes autom
 🚀 Demo en vivo (si tienes deployment)
 📋 Documentación de la API (si la documentaste con Swagger/Redoc)
 
-   🛠️ Tecnologías
+ - 🛠️ Tecnologías
   - **Backend:** Python 3.11+, FastAPI, SQLAlchemy, APScheduler
   - **Base de datos:** PostgreSQL
   - **Visualización:** Plotly/Matplotlib, Pandas
