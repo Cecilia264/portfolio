@@ -52,7 +52,7 @@ con gestión de pacientes, médicos, turnos, historial clínico y reportes autom
   Ejecutar frontend
   npm start
 
-
+---
 
 ## **→ Sistema de Gestión de CLub Deportivo**
 
