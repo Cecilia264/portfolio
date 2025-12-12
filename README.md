@@ -24,23 +24,17 @@ con gestión de pacientes, médicos, turnos, historial clínico y reportes autom
   - Programación de tareas automáticas (recordatorios) con APScheduler
   - Interfaz web responsiva y accesible
 
-- Tecnologías usadas:
+- 🛠️ Tecnologías usadas:
   - Backend: Python, FastAPI, SQLAlchemy, APScheduler
   - Base de datos: PostgreSQL
   - Visualización: Matplotlib / Plotly
-  - Frontend: React, CSS3, HTML5, JavaScript 
+  - Frontend: React, CSS3, HTML5, JavaScript
+  - Herramientas: Git
 
 - Enlaces:
 🔗 Repositorio en GitHub
 🚀 Demo en vivo (si tienes deployment)
 📋 Documentación de la API (si la documentaste con Swagger/Redoc)
-
-- 🛠️ Tecnologías
-  - **Backend:** Python 3.11+, FastAPI, SQLAlchemy, APScheduler
-  - **Base de datos:** PostgreSQL
-  - **Visualización:** Plotly/Matplotlib, Pandas
-  - **Frontend:** HTML5, CSS3, JavaScript, React
-  - **Herramientas:** Git
 
 - 📦 Instalación
   Clonar repositorio
@@ -72,7 +66,7 @@ según tres categorías de membresía con reglas de cobro diferenciadas.
   - Generación de múltiples reportes y estadísticas
   - Sistema modular con clases bien definidas
 
-- Tecnologías usadas:
+- 🛠️ Tecnologías usadas:
   - Lenguaje: Python 3.13.2
   - Paradigma: Programación Orientada a Objetos (POO)
   - Patrones: Herencia, Polimorfismo, Clases Abstractas
@@ -85,28 +79,12 @@ según tres categorías de membresía con reglas de cobro diferenciadas.
 🚀 Demo en vivo (si tienes deployment)
 📋 Documentación de la API (si la documentaste con Swagger/Redoc)
 
-  ## 🛠️ Tecnologías
-- **Backend:** Python 3.11+, FastAPI, SQLAlchemy, APScheduler
-- **Base de datos:** PostgreSQL
-- **Visualización:** Plotly/Matplotlib, Pandas
-- **Frontend:** HTML5, CSS3, JavaScript, React
-- **Herramientas:** Git
-
 - 📦 Instalación
   Clonar repositorio
   git clone https://github.com/tuusuario/nombre-proyecto.git
 
-  Instalar dependencias
-  pip install -r requirements.txt
-
-  Configurar variables de entorno
-  cp .env.example .env
-
   Ejecutar aplicación
   uvicorn main:app --reload
-
-  Ejecutar frontend
-  npm start
 
 
 
