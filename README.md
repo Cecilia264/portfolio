@@ -44,10 +44,13 @@ con gestión de pacientes, médicos, turnos, historial clínico y reportes autom
   pip install -r requirements.txt
 
   Configurar variables de entorno
-  cp .env.example .env
+  cp .env.example .env ------------------------------------------------------ ACORDARME
 
   Ejecutar aplicación
-  uvicorn main:app --reload
+  uvicorn app.main:app --reload
+
+  En frontend instalar
+  npm install
 
   Ejecutar frontend
   npm start
