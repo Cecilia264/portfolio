@@ -32,13 +32,11 @@ con gestión de pacientes, médicos, turnos, historial clínico y reportes autom
   - Herramientas: Git
 
 - Enlaces:
-🔗 Repositorio en GitHub
-🚀 Demo en vivo (si tienes deployment)
-📋 Documentación de la API (si la documentaste con Swagger/Redoc)
+🔗 Repositorio en GitHub: https://github.com/Cecilia264/Proyecto_Hospital
 
 - 📦 Instalación
   Clonar repositorio
-  git clone https://github.com/tuusuario/nombre-proyecto.git
+  git clone https://github.com/Cecilia264/Proyecto_Hospital.git
 
   Instalar dependencias
   pip install -r requirements.txt
@@ -80,13 +78,11 @@ según tres categorías de membresía con reglas de cobro diferenciadas.
   - Control de versiones: Git (.gitignore, .github)
 
 - Enlaces:
-🔗 Repositorio en GitHub
-🚀 Demo en vivo (si tienes deployment)
-📋 Documentación de la API (si la documentaste con Swagger/Redoc)
+🔗 Repositorio en GitHub: https://github.com/Cecilia264/Proyecto_Club_Deportivo
 
 - 📦 Instalación
   Clonar repositorio
-  git clone https://github.com/tuusuario/nombre-proyecto.git
+  git clone https://github.com/Cecilia264/Proyecto_Club_Deportivo.git
 
   Ejecutar aplicación
   uvicorn main:app --reload
