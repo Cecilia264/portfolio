@@ -2,7 +2,7 @@
 # Hola, soy Cecilia Cometto
 
 ## Sobre mí
-En el año 2025 finalice la ultima materia pendiente para ser Analista de Sistemas
+Analista de Sistemas (egresada 2025, título en trámite)
 
 ## Tecnologías
 - Backend: Python, FastAPI, SQLAlchemy, APScheduler
@@ -42,7 +42,6 @@ con gestión de pacientes, médicos, turnos, historial clínico y reportes autom
   pip install -r requirements.txt
 
   Configurar variables de entorno
-  cp .env.example .env ------------------------------------------------------ ACORDARME
 
   Ejecutar aplicación
   uvicorn app.main:app --reload
